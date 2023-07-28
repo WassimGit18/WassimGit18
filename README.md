@@ -1,6 +1,6 @@
 ![177948825-cb6ca0f0-5b86-45eb-b896-a2710c87e47a](https://github.com/WassimGit18/WassimGit18/assets/36075829/87a6f7d8-8b9b-4fec-b262-2ffadd73a71d)
 <h1 align="center">Hi 👋, My name is Wassim Bouchahma</h1>
-<h3 align="center">I am a Software Engineer & working as a Full Stack Web Developer.</h3>
+<h3 align="center">I am a Software Engineer & working as a Full Stack Web Developer. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.</h3>
 
 
 
