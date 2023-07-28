@@ -1,6 +1,8 @@
 ![177948825-cb6ca0f0-5b86-45eb-b896-a2710c87e47a](https://github.com/WassimGit18/WassimGit18/assets/36075829/87a6f7d8-8b9b-4fec-b262-2ffadd73a71d)
 <h1 align="center">Hi 👋, My name is Wassim Bouchahma</h1>
-<h3 align="center">I am a Software Engineer & working as a Full Stack Web Developer. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.</h3>
+<p align="left">
+  Software engineer with more than 2 years of experience. A computer scientist especially in the development of web and mobile applications. I worked on several projects in various fields including banking, insurance, tourism. Throughout my experiences I have improved my technical and relational skills and I have had plenty of challenges that allow me to be more solid in managing the project. This gave me the opportunity to lead a project in my second experience. Now I aim to further improve my career through new challenges.
+</p>
 
 
 
